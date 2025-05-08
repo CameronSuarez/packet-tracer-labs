@@ -4,7 +4,7 @@ This is a simple Packet Tracer lab featuring:
 - 2 Switches
 - 4 PCs
 - 1 Web/DNS Server
-- 1 Printer
+- 2 Printers
 
 ## Features
 
